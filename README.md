@@ -49,5 +49,10 @@ Data Analysis Using Power BI
 
 `= Table.AddColumn(#"Filtered Rows", "norm_amount", each if [currency] = "USD" or [currency] ="USD#(cr)" then [sales_amount]*75 else [sales_amount], type any)`
 
-### This is how the final PowerBI dashboard looks like:
+# This is how the final PowerBI dashboard looks like:
+
+![Screenshot](https://github.com/void1712/Sales-Insights-Data-Analysis/blob/main/dashboard.png)
+
+![Screenshot](https://github.com/void1712/Sales-Insights-Data-Analysis/blob/main/dashboard_mobile.jgp)
+
 
