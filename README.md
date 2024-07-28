@@ -51,8 +51,11 @@ Data Analysis Using Power BI
 
 # This is how the final PowerBI dashboard looks like:
 
+### This is the Desktop Dashboard
 ![Screenshot](https://github.com/void1712/Sales-Insights-Data-Analysis/blob/main/dashboard.png)
 
-![Screenshot](https://github.com/void1712/Sales-Insights-Data-Analysis/blob/main/dashboard_mobile.jpg)
+
+### This is the Mobile Dashboard
+![Screenshot](https://github.com/void1712/Sales-Insights-Data-Analysis/blob/main/dashboard_mob.png)
 
 
