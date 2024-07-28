@@ -53,6 +53,6 @@ Data Analysis Using Power BI
 
 ![Screenshot](https://github.com/void1712/Sales-Insights-Data-Analysis/blob/main/dashboard.png)
 
-![Screenshot](https://github.com/void1712/Sales-Insights-Data-Analysis/blob/main/dashboard_mobile.jgp)
+![Screenshot](https://github.com/void1712/Sales-Insights-Data-Analysis/blob/main/dashboard_mobile.jpg)
 
 
